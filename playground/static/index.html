@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Copilot Prompt Playground</title>
+  <style>
+    body { font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Arial; margin: 0; padding: 0; }
+    header { background:#0b5cff;color:#fff;padding:12px 16px }
+    main { display:flex; gap:16px; padding:16px }
+    #list { width:320px; max-height:80vh; overflow:auto; border-right:1px solid #eee }
+    #list button { display:block; width:100%; text-align:left; padding:8px; border:0; background:transparent; cursor:pointer }
+    #list button:focus { outline:3px solid #ffde59 }
+    #viewer { flex:1 }
+    pre { background:#f7f7f8; padding:12px; border-radius:6px; overflow:auto }
+    label { display:block; margin-top:8px }
+    .sr-only { position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden }
+  </style>
+</head>
+<body>
+  <a href="#main" class="sr-only">Skip to main</a>
+  <header>
+    <h1 style="margin:0;font-size:18px">Copilot Prompt Playground</h1>
+  </header>
+  <main id="main">
+    <aside id="list" aria-label="Prompt list">
+      <p id="loading">Loading prompts...</p>
+    </aside>
+    <section id="viewer" aria-live="polite">
+      <h2 id="title">Select a prompt</h2>
+      <div id="meta"></div>
+      <label for="input">Optional input (will be appended):</label>
+      <textarea id="input" rows="4" style="width:100%"></textarea>
+      <button id="render">Render prompt</button>
+      <h3>Output</h3>
+      <pre id="output">--</pre>
+    </section>
+  </main>
+
+  <script>
+    async function load() {
+      const res = await fetch('/api/prompts');
+      if (!res.ok) { document.getElementById('loading').textContent = 'Failed to load prompts'; return }
+      const prompts = await res.json();
+      const list = document.getElementById('list');
+      list.innerHTML = '';
+      prompts.forEach(p => {
+        const btn = document.createElement('button');
+        btn.textContent = p.name;
+        btn.addEventListener('click', () => showPrompt(p));
+        list.appendChild(btn);
+      });
+      if (prompts.length === 0) list.textContent = 'No prompts found in .github/prompts/*.prompt.md';
+    }
+    function showPrompt(p) {
+      document.getElementById('title').textContent = p.name;
+      const meta = document.getElementById('meta');
+      // show first 2000 chars as preview
+      meta.innerHTML = '<pre>' + escapeHtml(p.content.slice(0, 2000)) + (p.content.length>2000?'\n\n...[truncated]':'') + '</pre>';
+      window.currentPrompt = p;
+      document.getElementById('output').textContent = '--';
+    }
+    function escapeHtml(s){ return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;') }
+    document.getElementById('render').addEventListener('click', ()=>{
+      const p = window.currentPrompt;
+      if (!p) return alert('Select a prompt first');
+      const input = document.getElementById('input').value || '';
+      // naive render: prompt content + two newlines + input
+      document.getElementById('output').textContent = p.content + '\n\n' + input;
+    });
+
+    load().catch(e=>{ document.getElementById('loading').textContent = 'Error loading prompts'; console.error(e) });
+  </script>
+</body>
+</html>
