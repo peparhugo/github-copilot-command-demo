@@ -9,6 +9,7 @@ This folder vendors skills requested from:
 - https://github.com/anthropics/skills
 - https://github.com/wshobson/agents
 - https://github.com/trailofbits/skills
+- https://github.com/spillwavesolutions/confluence-skill
 
 ## Source coverage
 
@@ -18,5 +19,6 @@ This folder vendors skills requested from:
 - `anthropics/skills`: imported selected high-signal skills (1)
 - `wshobson/agents`: imported selected high-signal skills (7)
 - `trailofbits/skills`: imported selected high-signal skills (1)
+- `spillwavesolutions/confluence-skill`: imported `confluence-skill` (1)
 
-Total imported skills: **57**
+Total imported skills: **58**
