@@ -1,0 +1,60 @@
+{
+  "name": "mcp-jira-tools",
+  "version": "1.0.0",
+  "description": "Tool descriptors for local MCP-style JSON-RPC server that integrates with Jira",
+  "tools": [
+    {
+      "name": "create_issue",
+      "title": "Create Jira issue",
+      "description": "Create a new issue in Jira. Parameters: projectKey, summary, description, issuetype",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "projectKey": { "type": "string" },
+          "summary": { "type": "string" },
+          "description": { "type": "string" },
+          "issuetype": { "type": "string" }
+        },
+        "required": ["projectKey", "summary"]
+      }
+    },
+    {
+      "name": "update_issue",
+      "title": "Update Jira issue",
+      "description": "Update fields on an existing Jira issue. Parameters: issueKey, fields(object)",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "issueKey": { "type": "string" },
+          "fields": { "type": "object" }
+        },
+        "required": ["issueKey", "fields"]
+      }
+    },
+    {
+      "name": "get_issue",
+      "title": "Get Jira issue",
+      "description": "Fetch a Jira issue by key. Parameters: issueKey",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "issueKey": { "type": "string" }
+        },
+        "required": ["issueKey"]
+      }
+    },
+    {
+      "name": "search_issues",
+      "title": "Search Jira issues",
+      "description": "Search Jira using JQL. Parameters: jql, maxResults (optional)",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "jql": { "type": "string" },
+          "maxResults": { "type": "integer" }
+        },
+        "required": ["jql"]
+      }
+    }
+  ]
+}
