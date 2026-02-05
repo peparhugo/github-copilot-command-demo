@@ -1,0 +1,41 @@
+# wave-01-foundational.txt
+
+- Skills in this wave: 34
+- Size guardrail: keep each migration PR for this wave under ~1,500 changed files.
+- Include: each `skills/<name>/SKILL.md` and sibling `resources/`, `references/`, `assets/`, `scripts/` when present.
+
+## Skills
+- agent-md-refactor
+- awesome-copilot/git-commit
+- brainstorming
+- codex
+- commit-work
+- crafting-effective-readmes
+- daily-meeting-update
+- dependency-updater
+- dispatching-parallel-agents
+- executing-plans
+- feedback-mastery
+- finishing-a-development-branch
+- find-skills
+- naming-analyzer
+- professional-communication
+- qa-test-planner
+- receiving-code-review
+- reducing-entropy
+- related-skill
+- requesting-code-review
+- requirements-clarity
+- session-handoff
+- ship-learn-next
+- skill-judge
+- subagent-driven-development
+- systematic-debugging
+- test-driven-development
+- using-git-worktrees
+- using-superpowers
+- verification-before-completion
+- writing-clearly-and-concisely
+- writing-plans
+- writing-skills
+- softaworks-agent-toolkit/naming-analyzer

@@ -1,0 +1,38 @@
+# wave-05-security.txt
+
+- Skills in this wave: 31
+- Size guardrail: keep each migration PR for this wave under ~1,500 changed files.
+- Include: each `skills/<name>/SKILL.md` and sibling `resources/`, `references/`, `assets/`, `scripts/` when present.
+
+## Skills
+- agentic-browser
+- anthropics/webapp-testing
+- awesome-copilot/azure-deployment-preflight
+- awesome-copilot/azure-role-selector
+- awesome-copilot/azure-static-web-apps
+- awesome-copilot/gh-cli
+- awesome-copilot/github-issues
+- awesome-copilot/make-repo-contribution
+- awesome-copilot/refactor
+- awesome-copilot/scoutqa-test
+- awesome-copilot/terraform-azurerm-set-diff-analyzer
+- awesome-copilot/workiq-copilot
+- difficult-workplace-conversations
+- humanizer
+- softaworks-agent-toolkit/commit-work
+- softaworks-agent-toolkit/crafting-effective-readmes
+- softaworks-agent-toolkit/daily-meeting-update
+- softaworks-agent-toolkit/dependency-updater
+- softaworks-agent-toolkit/difficult-workplace-conversations
+- softaworks-agent-toolkit/feedback-mastery
+- softaworks-agent-toolkit/game-changing-features
+- softaworks-agent-toolkit/humanizer
+- softaworks-agent-toolkit/professional-communication
+- softaworks-agent-toolkit/qa-test-planner
+- softaworks-agent-toolkit/reducing-entropy
+- softaworks-agent-toolkit/requirements-clarity
+- softaworks-agent-toolkit/session-handoff
+- softaworks-agent-toolkit/ship-learn-next
+- softaworks-agent-toolkit/skill-judge
+- softaworks-agent-toolkit/writing-clearly-and-concisely
+- web-search

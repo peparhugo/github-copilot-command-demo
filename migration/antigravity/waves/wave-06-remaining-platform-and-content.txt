@@ -1,0 +1,42 @@
+# wave-06-remaining-platform-and-content.txt
+
+- Skills in this wave: 35
+- Size guardrail: keep each migration PR for this wave under ~1,500 changed files.
+- Include: each `skills/<name>/SKILL.md` and sibling `resources/`, `references/`, `assets/`, `scripts/` when present.
+
+## Skills
+- anthropics/algorithmic-art
+- anthropics/brand-guidelines
+- anthropics/doc-coauthoring
+- anthropics/docx
+- anthropics/internal-comms
+- anthropics/mcp-builder
+- anthropics/pdf
+- anthropics/pptx
+- anthropics/skill-creator
+- anthropics/slack-gif-creator
+- anthropics/theme-factory
+- anthropics/web-artifacts-builder
+- anthropics/xlsx
+- awesome-copilot/appinsights-instrumentation
+- awesome-copilot/azure-devops-cli
+- awesome-copilot/azure-resource-visualizer
+- awesome-copilot/excalidraw-diagram-generator
+- awesome-copilot/image-manipulation-image-magick
+- awesome-copilot/legacy-circuit-mockups
+- awesome-copilot/make-skill-template
+- awesome-copilot/markdown-to-html
+- awesome-copilot/plantuml-ascii
+- awesome-copilot/prd
+- domain-name-brainstormer
+- game-changing-features
+- marp-slide
+- mermaid-diagrams
+- softaworks-agent-toolkit/codex
+- softaworks-agent-toolkit/domain-name-brainstormer
+- softaworks-agent-toolkit/gemini
+- softaworks-agent-toolkit/gepetto
+- softaworks-agent-toolkit/marp-slide
+- softaworks-agent-toolkit/meme-factory
+- softaworks-agent-toolkit/mermaid-diagrams
+- softaworks-agent-toolkit/perplexity
