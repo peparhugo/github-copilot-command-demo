@@ -1,0 +1,37 @@
+# wave-02-frontend.txt
+
+- Skills in this wave: 30
+- Size guardrail: keep each migration PR for this wave under ~1,500 changed files.
+- Include: each `skills/<name>/SKILL.md` and sibling `resources/`, `references/`, `assets/`, `scripts/` when present.
+
+## Skills
+- agent-ui
+- awesome-copilot/chrome-devtools
+- awesome-copilot/penpot-uiux-design
+- awesome-copilot/web-design-reviewer
+- awesome-copilot/webapp-testing
+- backend-to-frontend-handoff-docs
+- chat-ui
+- design-system-starter
+- draw-io
+- excalidraw
+- frontend-to-backend-requirements
+- modern-javascript-patterns
+- mui
+- react-dev
+- react-useeffect
+- tools-ui
+- typescript-advanced-types
+- web-to-markdown
+- widgets-ui
+- softaworks-agent-toolkit/backend-to-frontend-handoff-docs
+- softaworks-agent-toolkit/design-system-starter
+- softaworks-agent-toolkit/draw-io
+- softaworks-agent-toolkit/excalidraw
+- softaworks-agent-toolkit/frontend-to-backend-requirements
+- softaworks-agent-toolkit/mui
+- softaworks-agent-toolkit/react-dev
+- softaworks-agent-toolkit/react-useeffect
+- softaworks-agent-toolkit/web-to-markdown
+- anthropics/frontend-design
+- anthropics/canvas-design

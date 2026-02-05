@@ -1,0 +1,39 @@
+# wave-03-backend.txt
+
+- Skills in this wave: 32
+- Size guardrail: keep each migration PR for this wave under ~1,500 changed files.
+- Include: each `skills/<name>/SKILL.md` and sibling `resources/`, `references/`, `assets/`, `scripts/` when present.
+
+## Skills
+- agent-tools
+- awesome-copilot/copilot-sdk
+- awesome-copilot/mcp-cli
+- awesome-copilot/microsoft-code-reference
+- awesome-copilot/microsoft-docs
+- awesome-copilot/nuget-manager
+- awesome-copilot/vscode-ext-commands
+- awesome-copilot/vscode-ext-localization
+- awesome-copilot/winapp-cli
+- c4-architecture
+- command-creator
+- confluence-skill
+- database-schema-designer
+- datadog-cli
+- javascript-sdk
+- jira
+- mcp-builder
+- modern-python
+- openapi-to-typescript
+- plugin-forge
+- python-design-patterns
+- python-performance-optimization
+- python-sdk
+- sql-optimization-patterns
+- softaworks-agent-toolkit/agent-md-refactor
+- softaworks-agent-toolkit/c4-architecture
+- softaworks-agent-toolkit/command-creator
+- softaworks-agent-toolkit/database-schema-designer
+- softaworks-agent-toolkit/datadog-cli
+- softaworks-agent-toolkit/jira
+- softaworks-agent-toolkit/openapi-to-typescript
+- softaworks-agent-toolkit/plugin-forge
