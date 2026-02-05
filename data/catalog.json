@@ -1,5 +1,164 @@
 [
   {
+    "slug": "agent-tools",
+    "path": "skills/agent-tools/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "awesome-copilot/copilot-sdk",
+    "path": "skills/awesome-copilot/copilot-sdk/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "awesome-copilot/mcp-cli",
+    "path": "skills/awesome-copilot/mcp-cli/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "awesome-copilot/microsoft-code-reference",
+    "path": "skills/awesome-copilot/microsoft-code-reference/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "awesome-copilot/microsoft-docs",
+    "path": "skills/awesome-copilot/microsoft-docs/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "awesome-copilot/nuget-manager",
+    "path": "skills/awesome-copilot/nuget-manager/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "awesome-copilot/vscode-ext-commands",
+    "path": "skills/awesome-copilot/vscode-ext-commands/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "awesome-copilot/vscode-ext-localization",
+    "path": "skills/awesome-copilot/vscode-ext-localization/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "awesome-copilot/winapp-cli",
+    "path": "skills/awesome-copilot/winapp-cli/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "c4-architecture",
+    "path": "skills/c4-architecture/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "command-creator",
+    "path": "skills/command-creator/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "confluence-skill",
+    "path": "skills/confluence-skill/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "database-schema-designer",
+    "path": "skills/database-schema-designer/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "datadog-cli",
+    "path": "skills/datadog-cli/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "javascript-sdk",
+    "path": "skills/javascript-sdk/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "jira",
+    "path": "skills/jira/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "mcp-builder",
+    "path": "skills/mcp-builder/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "modern-python",
+    "path": "skills/modern-python/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "openapi-to-typescript",
+    "path": "skills/openapi-to-typescript/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "plugin-forge",
+    "path": "skills/plugin-forge/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "python-design-patterns",
+    "path": "skills/python-design-patterns/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "python-performance-optimization",
+    "path": "skills/python-performance-optimization/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "python-sdk",
+    "path": "skills/python-sdk/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/agent-md-refactor",
+    "path": "skills/softaworks-agent-toolkit/agent-md-refactor/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/c4-architecture",
+    "path": "skills/softaworks-agent-toolkit/c4-architecture/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/command-creator",
+    "path": "skills/softaworks-agent-toolkit/command-creator/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/database-schema-designer",
+    "path": "skills/softaworks-agent-toolkit/database-schema-designer/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/datadog-cli",
+    "path": "skills/softaworks-agent-toolkit/datadog-cli/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/jira",
+    "path": "skills/softaworks-agent-toolkit/jira/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/openapi-to-typescript",
+    "path": "skills/softaworks-agent-toolkit/openapi-to-typescript/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/plugin-forge",
+    "path": "skills/softaworks-agent-toolkit/plugin-forge/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "sql-optimization-patterns",
+    "path": "skills/sql-optimization-patterns/SKILL.md",
+    "wave": "core"
+  },
     "slug": "brainstorming",
     "path": "skills/brainstorming/SKILL.md",
     "wave": "core"
