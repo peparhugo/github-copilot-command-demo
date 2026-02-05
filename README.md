@@ -2,6 +2,8 @@
 
 This repository demonstrates how to configure and use GitHub Copilot commands in PyCharm to expedite your IDE development process.
 
+> **🚀 New to GitHub Copilot?** Check out the [Quick Start Guide](QUICKSTART.md) to get up and running in 5 minutes!
+
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [PyCharm Setup](#pycharm-setup)

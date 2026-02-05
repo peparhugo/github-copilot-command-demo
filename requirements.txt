@@ -1,0 +1,14 @@
+# Requirements for GitHub Copilot Command Demo
+# This project primarily uses Python standard library
+
+# For running tests (optional)
+pytest>=7.0.0
+
+# No external dependencies required for basic examples
+# All examples use Python standard library modules:
+# - datetime
+# - typing
+# - collections
+# - statistics
+# - json
+# - urllib
