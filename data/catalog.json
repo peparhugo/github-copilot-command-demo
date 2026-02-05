@@ -1,1 +1,207 @@
-[]
+[
+  {
+    "slug": "ai-automation-workflows",
+    "path": "skills/ai-automation-workflows/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "ai-avatar-video",
+    "path": "skills/ai-avatar-video/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "ai-content-pipeline",
+    "path": "skills/ai-content-pipeline/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "ai-image-generation",
+    "path": "skills/ai-image-generation/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "ai-marketing-videos",
+    "path": "skills/ai-marketing-videos/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "ai-music-generation",
+    "path": "skills/ai-music-generation/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "ai-podcast-creation",
+    "path": "skills/ai-podcast-creation/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "ai-product-photography",
+    "path": "skills/ai-product-photography/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "ai-rag-pipeline",
+    "path": "skills/ai-rag-pipeline/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "ai-social-media-content",
+    "path": "skills/ai-social-media-content/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "ai-video-generation",
+    "path": "skills/ai-video-generation/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "ai-voice-cloning",
+    "path": "skills/ai-voice-cloning/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "airflow-dag-patterns",
+    "path": "skills/airflow-dag-patterns/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "awesome-copilot/agentic-eval",
+    "path": "skills/awesome-copilot/agentic-eval/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "awesome-copilot/meeting-minutes",
+    "path": "skills/awesome-copilot/meeting-minutes/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "awesome-copilot/powerbi-modeling",
+    "path": "skills/awesome-copilot/powerbi-modeling/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "awesome-copilot/snowflake-semanticview",
+    "path": "skills/awesome-copilot/snowflake-semanticview/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "background-removal",
+    "path": "skills/background-removal/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "dbt-labs/adding-dbt-unit-test",
+    "path": "skills/dbt-labs/adding-dbt-unit-test/SKILL.md",
+    "wave": "dbt-labs"
+  },
+  {
+    "slug": "dbt-labs/answering-natural-language-questions-with-dbt",
+    "path": "skills/dbt-labs/answering-natural-language-questions-with-dbt/SKILL.md",
+    "wave": "dbt-labs"
+  },
+  {
+    "slug": "dbt-labs/building-dbt-semantic-layer",
+    "path": "skills/dbt-labs/building-dbt-semantic-layer/SKILL.md",
+    "wave": "dbt-labs"
+  },
+  {
+    "slug": "dbt-labs/configuring-dbt-mcp-server",
+    "path": "skills/dbt-labs/configuring-dbt-mcp-server/SKILL.md",
+    "wave": "dbt-labs"
+  },
+  {
+    "slug": "dbt-labs/fetching-dbt-docs",
+    "path": "skills/dbt-labs/fetching-dbt-docs/SKILL.md",
+    "wave": "dbt-labs"
+  },
+  {
+    "slug": "dbt-labs/migrating-dbt-core-to-fusion",
+    "path": "skills/dbt-labs/migrating-dbt-core-to-fusion/SKILL.md",
+    "wave": "dbt-labs"
+  },
+  {
+    "slug": "dbt-labs/troubleshooting-dbt-job-errors",
+    "path": "skills/dbt-labs/troubleshooting-dbt-job-errors/SKILL.md",
+    "wave": "dbt-labs"
+  },
+  {
+    "slug": "dbt-labs/using-dbt-for-analytics-engineering",
+    "path": "skills/dbt-labs/using-dbt-for-analytics-engineering/SKILL.md",
+    "wave": "dbt-labs"
+  },
+  {
+    "slug": "flux-image",
+    "path": "skills/flux-image/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "gemini",
+    "path": "skills/gemini/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "gepetto",
+    "path": "skills/gepetto/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "google-veo",
+    "path": "skills/google-veo/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "image-upscaling",
+    "path": "skills/image-upscaling/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "llm-evaluation",
+    "path": "skills/llm-evaluation/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "llm-models",
+    "path": "skills/llm-models/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "meme-factory",
+    "path": "skills/meme-factory/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "perplexity",
+    "path": "skills/perplexity/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "prompt-engineering",
+    "path": "skills/prompt-engineering/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "python-executor",
+    "path": "skills/python-executor/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "speech-to-text",
+    "path": "skills/speech-to-text/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "text-to-speech",
+    "path": "skills/text-to-speech/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "twitter-automation",
+    "path": "skills/twitter-automation/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "video-prompting-guide",
+    "path": "skills/video-prompting-guide/SKILL.md",
+    "wave": "core"
+  }
+]
