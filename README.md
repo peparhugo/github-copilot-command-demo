@@ -233,26 +233,43 @@ Show these impressive results during your demo:
 5. **Learn** - Study patterns in generated code
 6. **Combine** - Use multiple techniques together
 
-## 📖 Additional Resources
+## 📖 Documentation
+
+- **[Demo Script](DEMO_SCRIPT.md)** - Step-by-step guide for 5 and 10-minute demos
+- **[Quick Reference](QUICK_REFERENCE.md)** - Cheat sheet of all commands and shortcuts
+- **[Contributing](CONTRIBUTING.md)** - Guidelines for adding new examples
+
+## 🔗 Additional Resources
 
 - [GitHub Copilot Documentation](https://docs.github.com/en/copilot)
+- [VS Code Copilot Guide](https://code.visualstudio.com/docs/copilot/overview)
 - [OpenAPI Specification](https://swagger.io/specification/)
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - [Web Performance Best Practices](https://web.dev/performance/)
 
 ## 🤝 Contributing
 
-Feel free to add more examples or improve existing ones! Areas for expansion:
-- GraphQL query generation
+We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+**Ideas for new examples:**
+- GraphQL to REST conversion
 - Database migration generation
 - Infrastructure as Code (Terraform, CloudFormation)
 - CI/CD pipeline generation
 - Kubernetes manifest generation
+- Legacy code modernization
+- Accessibility improvements
 
 ## 📝 License
 
 MIT License - Feel free to use these examples in your demos and projects!
 
+## 🙏 Acknowledgments
+
+Created to demonstrate true mastery of AI-augmented development with GitHub Copilot.
+
+Special thanks to all contributors who help improve these examples!
+
 ---
 
-**Made with ❤️ using GitHub Copilot** - Demonstrating true mastery of AI-augmented development
+**Made with ❤️ using GitHub Copilot** - Showcasing the future of software development
