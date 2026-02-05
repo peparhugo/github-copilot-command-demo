@@ -7,6 +7,9 @@
     "validate:skills:js": "node scripts/validate-skills.js",
     "validate:skills:pr0": "python3 scripts/validate_skills.py --wave PR-0 && node scripts/validate-skills.js",
     "build:catalog": "node scripts/build-catalog.js",
-    "normalize:frontmatter": "node scripts/normalize-frontmatter.js"
+    "normalize:frontmatter": "node scripts/normalize-frontmatter.js",
+    "check:skill-completeness": "python3 scripts/migration/verify-skill-completeness.py",
+    "report:source-symlinks": "python3 scripts/migration/report-symlinks.py .github/skills",
+    "validate:wave": "npm run check:skill-completeness && npm run report:source-symlinks && npm run normalize:frontmatter && npm run build:catalog && npm run validate:skills"
   }
 }
