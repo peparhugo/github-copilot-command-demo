@@ -4,6 +4,7 @@ This repository vendors skill packs under the `skills/` folder, based on GitHub 
 
 - `skills/anthropics/*` copied from `anthropics/skills` (`main` branch)
 - `skills/awesome-copilot/*` copied from `github/awesome-copilot` (`main` branch)
+- `skills/dbt-labs/*` copied from `dbt-labs/dbt-agent-skills` (`main` branch)
 
 These are organized by source to keep provenance clear and avoid naming collisions between packs.
 
