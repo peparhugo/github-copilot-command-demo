@@ -1,5 +1,6 @@
 <!-- Based on: https://github.com/github/awesome-copilot/blob/main/prompts/conventional-commit.prompt.md -->
 ---
+agent: 'agent'
 description: 'Generate a Conventional Commits message based on staged repository changes.'
 ---
 
