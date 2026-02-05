@@ -1,0 +1,8 @@
+[project]
+name = "github-copilot-command-demo"
+version = "0.1.0"
+description = "Utility validation scripts for skill migration waves"
+requires-python = ">=3.9"
+
+[project.scripts]
+validate-skills = "scripts.validate_skills:main"
