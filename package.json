@@ -1,0 +1,12 @@
+{
+  "name": "github-copilot-command-demo",
+  "private": true,
+  "scripts": {
+    "validate:skills": "npm run validate:skills:py && npm run validate:skills:js",
+    "validate:skills:py": "python3 scripts/validate_skills.py --wave all",
+    "validate:skills:js": "node scripts/validate-skills.js",
+    "validate:skills:pr0": "python3 scripts/validate_skills.py --wave PR-0 && node scripts/validate-skills.js",
+    "build:catalog": "node scripts/build-catalog.js",
+    "normalize:frontmatter": "node scripts/normalize-frontmatter.js"
+  }
+}
