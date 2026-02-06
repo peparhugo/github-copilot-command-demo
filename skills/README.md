@@ -2,23 +2,16 @@
 
 This folder vendors skills requested from:
 
-- https://skills.sh/
-- https://github.com/vercel-labs/skills
-- https://github.com/inference-sh/agent-skills
-- https://github.com/obra/superpowers/blob/main/skills/using-superpowers/SKILL.md
-- https://github.com/anthropics/skills
-- https://github.com/wshobson/agents
-- https://github.com/trailofbits/skills
+- https://github.com/sickn33/antigravity-awesome-skills
+- https://github.com/github/awesome-copilot
+- https://github.com/softaworks/agent-toolkit
 - https://github.com/spillwavesolutions/confluence-skill
 
 ## Source coverage
 
-- `vercel-labs/skills`: imported all detected `SKILL.md` skill directories (1)
-- `inference-sh/agent-skills`: imported all detected `SKILL.md` skill directories (33)
-- `obra/superpowers`: imported all detected `SKILL.md` skill directories (14), including `using-superpowers`
-- `anthropics/skills`: imported selected high-signal skills (1)
-- `wshobson/agents`: imported selected high-signal skills (7)
-- `trailofbits/skills`: imported selected high-signal skills (1)
+- `github/awesome-copilot`: imported wave-03 backend subset (8)
+- `softaworks/agent-toolkit`: imported wave-03 backend subset (15, including namespaced copies)
 - `spillwavesolutions/confluence-skill`: imported `confluence-skill` (1)
+- `sickn33/antigravity-awesome-skills`: imported wave-03 backend subset (8, including mapped aliases)
 
-Total imported skills: **58**
+Total imported skills: **32**
