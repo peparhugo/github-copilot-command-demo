@@ -1,1 +1,132 @@
-[]
+[
+  {
+    "slug": "anthropics/algorithmic-art",
+    "path": "skills/anthropics/algorithmic-art/SKILL.md",
+    "wave": "anthropics"
+  },
+  {
+    "slug": "anthropics/brand-guidelines",
+    "path": "skills/anthropics/brand-guidelines/SKILL.md",
+    "wave": "anthropics"
+  },
+  {
+    "slug": "anthropics/doc-coauthoring",
+    "path": "skills/anthropics/doc-coauthoring/SKILL.md",
+    "wave": "anthropics"
+  },
+  {
+    "slug": "anthropics/docx",
+    "path": "skills/anthropics/docx/SKILL.md",
+    "wave": "anthropics"
+  },
+  {
+    "slug": "anthropics/internal-comms",
+    "path": "skills/anthropics/internal-comms/SKILL.md",
+    "wave": "anthropics"
+  },
+  {
+    "slug": "anthropics/mcp-builder",
+    "path": "skills/anthropics/mcp-builder/SKILL.md",
+    "wave": "anthropics"
+  },
+  {
+    "slug": "anthropics/pdf",
+    "path": "skills/anthropics/pdf/SKILL.md",
+    "wave": "anthropics"
+  },
+  {
+    "slug": "anthropics/pptx",
+    "path": "skills/anthropics/pptx/SKILL.md",
+    "wave": "anthropics"
+  },
+  {
+    "slug": "anthropics/skill-creator",
+    "path": "skills/anthropics/skill-creator/SKILL.md",
+    "wave": "anthropics"
+  },
+  {
+    "slug": "anthropics/slack-gif-creator",
+    "path": "skills/anthropics/slack-gif-creator/SKILL.md",
+    "wave": "anthropics"
+  },
+  {
+    "slug": "anthropics/theme-factory",
+    "path": "skills/anthropics/theme-factory/SKILL.md",
+    "wave": "anthropics"
+  },
+  {
+    "slug": "anthropics/web-artifacts-builder",
+    "path": "skills/anthropics/web-artifacts-builder/SKILL.md",
+    "wave": "anthropics"
+  },
+  {
+    "slug": "anthropics/xlsx",
+    "path": "skills/anthropics/xlsx/SKILL.md",
+    "wave": "anthropics"
+  },
+  {
+    "slug": "domain-name-brainstormer",
+    "path": "skills/domain-name-brainstormer/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "game-changing-features",
+    "path": "skills/game-changing-features/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "marp-slide",
+    "path": "skills/marp-slide/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "mermaid-diagrams",
+    "path": "skills/mermaid-diagrams/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/codex",
+    "path": "skills/softaworks-agent-toolkit/codex/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/domain-name-brainstormer",
+    "path": "skills/softaworks-agent-toolkit/domain-name-brainstormer/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/game-changing-features",
+    "path": "skills/softaworks-agent-toolkit/game-changing-features/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/gemini",
+    "path": "skills/softaworks-agent-toolkit/gemini/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/gepetto",
+    "path": "skills/softaworks-agent-toolkit/gepetto/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/marp-slide",
+    "path": "skills/softaworks-agent-toolkit/marp-slide/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/meme-factory",
+    "path": "skills/softaworks-agent-toolkit/meme-factory/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/mermaid-diagrams",
+    "path": "skills/softaworks-agent-toolkit/mermaid-diagrams/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/perplexity",
+    "path": "skills/softaworks-agent-toolkit/perplexity/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  }
+]
