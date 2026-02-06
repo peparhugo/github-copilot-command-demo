@@ -22,3 +22,7 @@
 
 ### Validation output
 - Paste validation command output run for the wave PR.
+
+## Implementation progress
+
+- [x] `wave-02-frontend.txt` implementation documented in `wave-02-frontend-implementation.md`.
