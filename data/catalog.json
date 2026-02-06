@@ -1,1 +1,157 @@
-[]
+[
+  {
+    "slug": "agentic-browser",
+    "path": "skills/agentic-browser/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "anthropics/webapp-testing",
+    "path": "skills/anthropics/webapp-testing/SKILL.md",
+    "wave": "anthropics"
+  },
+  {
+    "slug": "awesome-copilot/azure-deployment-preflight",
+    "path": "skills/awesome-copilot/azure-deployment-preflight/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "awesome-copilot/azure-role-selector",
+    "path": "skills/awesome-copilot/azure-role-selector/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "awesome-copilot/azure-static-web-apps",
+    "path": "skills/awesome-copilot/azure-static-web-apps/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "awesome-copilot/gh-cli",
+    "path": "skills/awesome-copilot/gh-cli/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "awesome-copilot/github-issues",
+    "path": "skills/awesome-copilot/github-issues/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "awesome-copilot/make-repo-contribution",
+    "path": "skills/awesome-copilot/make-repo-contribution/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "awesome-copilot/refactor",
+    "path": "skills/awesome-copilot/refactor/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "awesome-copilot/scoutqa-test",
+    "path": "skills/awesome-copilot/scoutqa-test/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "awesome-copilot/terraform-azurerm-set-diff-analyzer",
+    "path": "skills/awesome-copilot/terraform-azurerm-set-diff-analyzer/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "awesome-copilot/workiq-copilot",
+    "path": "skills/awesome-copilot/workiq-copilot/SKILL.md",
+    "wave": "awesome-copilot"
+  },
+  {
+    "slug": "difficult-workplace-conversations",
+    "path": "skills/difficult-workplace-conversations/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "humanizer",
+    "path": "skills/humanizer/SKILL.md",
+    "wave": "core"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/commit-work",
+    "path": "skills/softaworks-agent-toolkit/commit-work/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/crafting-effective-readmes",
+    "path": "skills/softaworks-agent-toolkit/crafting-effective-readmes/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/daily-meeting-update",
+    "path": "skills/softaworks-agent-toolkit/daily-meeting-update/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/dependency-updater",
+    "path": "skills/softaworks-agent-toolkit/dependency-updater/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/difficult-workplace-conversations",
+    "path": "skills/softaworks-agent-toolkit/difficult-workplace-conversations/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/feedback-mastery",
+    "path": "skills/softaworks-agent-toolkit/feedback-mastery/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/game-changing-features",
+    "path": "skills/softaworks-agent-toolkit/game-changing-features/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/humanizer",
+    "path": "skills/softaworks-agent-toolkit/humanizer/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/professional-communication",
+    "path": "skills/softaworks-agent-toolkit/professional-communication/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/qa-test-planner",
+    "path": "skills/softaworks-agent-toolkit/qa-test-planner/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/reducing-entropy",
+    "path": "skills/softaworks-agent-toolkit/reducing-entropy/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/requirements-clarity",
+    "path": "skills/softaworks-agent-toolkit/requirements-clarity/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/session-handoff",
+    "path": "skills/softaworks-agent-toolkit/session-handoff/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/ship-learn-next",
+    "path": "skills/softaworks-agent-toolkit/ship-learn-next/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/skill-judge",
+    "path": "skills/softaworks-agent-toolkit/skill-judge/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "softaworks-agent-toolkit/writing-clearly-and-concisely",
+    "path": "skills/softaworks-agent-toolkit/writing-clearly-and-concisely/SKILL.md",
+    "wave": "softaworks-agent-toolkit"
+  },
+  {
+    "slug": "web-search",
+    "path": "skills/web-search/SKILL.md",
+    "wave": "core"
+  }
+]
